@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-Deployed on netlify: https://main--todobyaniket0723.netlify.app/
+
+
 
 
 ## Available Scripts
